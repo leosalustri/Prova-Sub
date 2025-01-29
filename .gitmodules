@@ -1,0 +1,3 @@
+[submodule "SRT_Libraries"]
+	path = SRT_Libraries
+	url = https://github.com/leosalustri/SRT_Libraries.git
